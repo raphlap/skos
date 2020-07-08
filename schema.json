@@ -109,7 +109,7 @@
           "id": {
             "type": "string",
             "format": "uri",
-            "pattern": "^https:\/\/w3id.org\/kim\/hochschulfaechersystematik\/.*"
+            "pattern": "^https:\/\/skohub.io\/raphlap\/test_ined\/heads\/master\/thesaurus.web.ined.fr\/demovoc\/.*"
           },
           "inScheme": {
             "type": "object",
@@ -117,7 +117,7 @@
               "id": {
                 "type": "string",
                 "enum": [
-                  "https://w3id.org/kim/hochschulfaechersystematik/scheme"
+                  "https://skohub.io/raphlap/test_ined/heads/master/thesaurus.web.ined.fr/demovoc/scheme"
                 ]
               }
             }
